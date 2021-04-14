@@ -5,3 +5,4 @@ applying link to a text
   Here's a <a target="_blank" href="http://www.google.com"> link to google</a> for you to follow.
 </p>
 target is an anchor tag attribute that specifies where to open the link. The value _blank specifies to open the link in a new tab. 
+ 
