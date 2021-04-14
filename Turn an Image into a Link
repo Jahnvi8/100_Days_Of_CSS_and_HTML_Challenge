@@ -1,0 +1,10 @@
+You can make elements into links by nesting them within an a element.
+Nest your image within an a element. 
+
+Here's an example:
+<a href="#"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.scientificamerican.com%2Fsciam%2Fcache%2Ffile%2F32665E6F-8D90-4567-9769D59E11DB7F26_source.jpg&imgrefurl=https%3A%2F%2Fwww.scientificamerican.com%2Farticle%2Fcats-recognize-their-own-names-even-if-they-choose-to-ignore-them%2F&tbnid=4UGQJdMEKQeKZM&vet=12ahUKEwj6xNehhP7vAhWY-zgGHf0gDFMQMygIegUIARCNAQ..i&docid=JQw2CtERERbSAM&w=4500&h=3587&q=cats&ved=2ahUKEwj6xNehhP7vAhWY-zgGHf0gDFMQMygIegUIARCNAQ" alt="cat"></a>
+
+Remember to use # as your a element's href property in order to turn it into a dead link.
+Place the existing image element within an a (anchor) element.
+
+Once you've done this, hover over your image with your cursor. Your cursor's normal pointer should become the link clicking pointer. The photo is now a link.
