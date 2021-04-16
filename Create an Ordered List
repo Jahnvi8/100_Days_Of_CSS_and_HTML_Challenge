@@ -1,0 +1,15 @@
+HTML has another special element for creating ordered lists, or numbered lists.
+Ordered lists start with an opening <ol> element, followed by any number of <li> elements. Finally, ordered lists are closed with the </ol> tag.
+
+For example:
+
+<ol>
+  <li>Milk</li>
+  <li>Bread</li>
+</ol>
+..
+would create a numbered list of Garfield and Sylvester.
+
+OUTPUT:
+1. Milk
+2. Bread
