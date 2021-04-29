@@ -1,0 +1,7 @@
+We can round out those corners with a CSS property called border-radius.
+
+<style>
+ .class{
+    border-radius: 50%;
+ }
+</style>
