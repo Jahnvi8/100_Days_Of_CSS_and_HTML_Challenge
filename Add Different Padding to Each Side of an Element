@@ -1,0 +1,12 @@
+Sometimes you will want to customize an element so that it has different amounts of padding on each of its sides.
+
+CSS allows you to control the padding of all four individual sides of an element with the 
+padding-top, padding-right, padding-bottom, and padding-left properties.
+.blue-box {
+    background-color: blue;
+    color: #fff;
+     padding-top: 40px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px; 
+  }
