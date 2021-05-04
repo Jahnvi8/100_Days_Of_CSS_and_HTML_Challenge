@@ -1,0 +1,7 @@
+You have been adding id or class attributes to elements that you wish to specifically style.
+These are known as ID and class selectors.
+There are other CSS Selectors you can use to select custom groups of elements to style.
+
+[type='radio'] {
+  margin: 20px 0px 20px 0px;
+}
