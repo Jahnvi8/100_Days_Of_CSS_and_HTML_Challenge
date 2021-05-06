@@ -1,0 +1,8 @@
+There's one last way to override CSS. This is the most powerful method of all. But before we do it, 
+let's talk about why you would ever want to override CSS.
+
+In many situations, you will use CSS libraries.
+These may accidentally override your own CSS.
+So when you absolutely need to be sure that an element has specific CSS, you can use !important.
+
+color: red !important;
