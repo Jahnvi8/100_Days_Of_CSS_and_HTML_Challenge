@@ -1,0 +1,3 @@
+Using the align-items property on a grid container will set the vertical alignment for all the items in our grid.
+
+align-items:end;
